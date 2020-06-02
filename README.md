@@ -1,2 +1,2 @@
 # cursogit
-nada de importante somente estudo de GIT
+Estudo de GIT
