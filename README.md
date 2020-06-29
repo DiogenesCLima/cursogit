@@ -1,2 +1,3 @@
 # cursogit
-Estudo de GIT
+
+Estudo de GIT e GPG
